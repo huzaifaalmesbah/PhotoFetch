@@ -7,7 +7,7 @@
  * Requires at least: 5.8
  * Requires PHP:      7.4
  * Author:            ekamran, veeeharris, mattgaldino, telizarose, topher1kenobe, gusteci, michelleames
- * Author URI:        https://github.com/your-username
+ * Author URI:        https://github.com/topher1kenobe/PhotoFetch
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       photofetch
